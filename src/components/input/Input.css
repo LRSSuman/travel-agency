@@ -1,0 +1,14 @@
+.input input {
+    position: absolute;
+    bottom: 300px;
+    left: 700px;
+    width: 500px;
+    height: 50px;
+}
+
+.tt {
+    color: #fff;
+    position: absolute;
+    bottom: 260px;
+    left: 700px;
+}

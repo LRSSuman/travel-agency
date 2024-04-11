@@ -1,0 +1,21 @@
+.navbar {
+    height: 70px;
+    top: 10px;
+    position: fixed;
+    width: 100%;
+    background: orange;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+    padding: 0 20px;
+}
+
+.navlinks {
+    display: flex;
+    gap: 50px;
+}
+
+.navlinks li {
+    list-style: none;
+}
